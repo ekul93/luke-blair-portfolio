@@ -3,7 +3,7 @@
     "name": "Luke Blair",
     "occupation": "Programmer",
     "description": "Full Stack Developer",
-    "image": "lukeimage.jpg",
+    "image": "../images/lukeimage.jpg",
     "bio": "My name is Luke, I am a Full Stack Developer. I have 7+ years of experience in the industry and have worked on a variety of projects across the board.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "luke.l.blair@gmail.com",
