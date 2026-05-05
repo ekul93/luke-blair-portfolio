@@ -26,6 +26,12 @@
         "name": "github",
         "url": "https://github.com/ekul93",
         "className": "fa fa-github"
+      },
+
+      {
+        "name": "codepen",
+        "url": "https://codepen.io/editor/ekul93/pen/019dea78-d50a-7aae-b140-ed83c146112c",
+        "className": "fa fa-codepen"
       }
     ]
   },
